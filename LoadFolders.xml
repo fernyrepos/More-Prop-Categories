@@ -1,0 +1,16 @@
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+    <li IfModActive="oracle.miscellania">Mods and Shit/Oracle's Miscellania</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">Mods and Shit/Ancient Urban Ruins</li>
+    <li IfModActive="vanillaexpanded.vgeneticse">Mods and Shit/VE Genetics</li>
+    <li IfModActive="sarg.alphapropsparks">Mods and Shit/AP Parks</li>
+  </v1.4>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="oracle.miscellania">Mods and Shit/Oracle's Miscellania</li>
+    <li IfModActive="xmb.ancienturbanruins.mo">Mods and Shit/Ancient Urban Ruins</li>
+    <li IfModActive="vanillaexpanded.vgeneticse">Mods and Shit/VE Genetics</li>
+    <li IfModActive="sarg.alphapropsparks">Mods and Shit/AP Parks</li>
+  </v1.5>
+</loadFolders>

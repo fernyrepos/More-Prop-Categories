@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>              
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_LoopBollard"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_BollardMetallic"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_BollardRound"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_BollardStraight"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_BollardYellow"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_BollardYellow"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_MantelpieceA"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_MantelpieceB"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="AP_Prop_Park_MantelpieceC"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+</Patch>
+

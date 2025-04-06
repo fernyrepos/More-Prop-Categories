@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>              
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_FakeStairs"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_FakeStairsCorner"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_FakeStairsInvertedCorner"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_LargeFakeStairs"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_LargeFakeStairsCorner"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_LargeFakeStairsInvertedCorner"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Kitchen_16"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+
+
+
+
+
+<Operation Class="PatchOperationReplace">
+    <success>Always</success>
+    <xpath>Defs/VFEProps.PropCategoryDef[defName="VVFE_PropCategory_Office"]/icon</xpath>
+    <value>
+        <icon>office</icon>
+    </value>
+</Operation>
+
+
+
+
+
+
+
+
+
+</Patch>

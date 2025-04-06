@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>              
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_PrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_ProgressPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_Progress2PrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_TransPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_NonbinaryPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_LesbianPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_GayPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_BiPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_PanPrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_AcePrideBanner"]/category</xpath>
+        <value>
+            <category>Ferny_Flags</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_ChasmWall"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_NaturalChasmWall"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_SmoothNaturalChasmWall"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_Shadow"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_ShadowInnerCorner"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_ShadowOuterCorner"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffWall"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffCurveLeft"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffCurveRight"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffSteepLeftSlope"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffSteepRightSlope"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffGentleLeftSlope"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffGentleRightSlope"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_Cliff90Left"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffCurve90Right"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffWallVertL"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffWallVertR"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffVertSlopeLeft"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CliffVertSlopeRight"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_SteelBridgeLoop"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_SteelBridgeRight"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_SteelBridgeHeavy"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_SteelBridgePillar"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_CaduceusDecal"]/category</xpath>
+        <value>
+            <category>VFE_PropCategory_LargeDecals</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_MassEffectBooze"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_FishTank"]/category</xpath>
+        <value>
+            <category>Ferny_Nautical</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_Diag"]/category</xpath>
+        <value>
+            <category>AP_PropCategory_Walls</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_DiagBrick"]/category</xpath>
+        <value>
+            <category>AP_PropCategory_Walls</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="OC_Prop_DiagClutter"]/category</xpath>
+        <value>
+            <category>AP_PropCategory_Walls</category>
+        </value>
+    </Operation>
+</Patch>

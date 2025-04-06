@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>              
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Exit_L"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Exit_S"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_DownwardStairs"]/category</xpath>
+        <value>
+            <category>Ferny_Elevation</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BurgerPaperBag"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BurgerPaperBox"]/category</xpath>
+        <value>
+            <category>Ferny_Dining</category>
+        </value>
+    </Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Arrow"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Bishop"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Crown"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_D2A"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Knight"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Pawn"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Queen"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Rook"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_RFC"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_DK"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ADI"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_HG"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_VC"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_IndicatorLine_Yellow"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_IndicatorLine"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Decals</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedStairs"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category> 
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedStairsD"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category> 
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedElevators"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category> 
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedElevatorsD"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category> 
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedElevatorsA"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category> 
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedElevatorsDA"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category> 
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_Bunker"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_ReserveBunker"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_Shelter"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_Subway"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_Mall_A"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_Mall_B"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_CommercialStreet"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Exit_Staircase"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Exit_DoubleElevator"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Exit_Elevator"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Entrance_UndergroundGarage"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Exit_Staircase_UndergroundGarage"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BlockedUndergroundGarageEntrance"]/category</xpath>
+    <value>
+        <category>Ferny_Elevation</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Notice"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ManAtWork"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Crossroad"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SteepAscent"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_WatchForBug"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_WatchForGorehulk"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_WatchForMachine"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_WatchForMetalhorror"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_WatchForNoctol"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_AllowableTurn"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_AllowRightTurn"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_MotorVehicleLane"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParkingPermitted"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_TurnAround"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_NoAccess"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_NoGhoul"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_NoParking"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_NoTurningAaround"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SpeedLimit40KPH"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ConstructionSite"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SlideSign"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SmallShoppingGuideMapA"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SmallShoppingGuideMapB"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SmallShoppingGuideMapC"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_FloorSignageA"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_FloorSignageB"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_FloorSignageC"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_FloorSignageD"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_HallSignage"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BusRouteSignA"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_BusRouteSignB"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SpiritualFortressA"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SpiritualFortressB"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SpiritualFortressC"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SpiritualFortressD"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ShoppingMallGuideMap"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParkingLotSignage"]/category</xpath>
+    <value>
+        <category>Ferny_Signs</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParterreA"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParterreB"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParterreC"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParterreD_East"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParterreD_north"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_RollingShutter_I"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_RollingShutter_II"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_RollingShutter_III"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_RollingShutter_NoHP"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_MallColumn"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Structures</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_ParkingLotColumn"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Structures</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_AncientRevolvingDoorA"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_AncientRevolvingDoorB"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_AncientRevolvingDoorC"]/category</xpath>
+    <value>
+        <category>Ferny_Urban</category>
+    </value>
+</Operation>
+
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_Effigy"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Furniture</category>
+    </value>
+</Operation>
+
+
+
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_MallWoodenBench"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Furniture</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_DiningChair"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Furniture</category>
+    </value>
+</Operation>
+<Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_VFEPD_AM_SmallGenerator"]/category</xpath>
+    <value>
+        <category>VFE_PropCategory_Power</category>
+    </value>
+</Operation>
+
+
+</Patch>
+

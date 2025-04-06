@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>More Prop Categories</name>
+	<author>ferny</author>
+	<packageId>ferny.propscore</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VFEPropsandDecor</packageId>
+			<displayName>Vanilla Furniture Expanded - Props and Decorations</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2102143149</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Integrates new categories for Ferny's Prop series.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>VanillaExpanded.VFEPropsandDecor</li>
+		<li>ReGrowth.BOTR.Core</li>
+		<li>anthitei.athsstylegothic.style</li>
+		<li>oracle.miscellania</li>
+		<li>xmb.ancienturbanruins.mo</li>
+		<li>vanillaexpanded.vgeneticse</li>
+		<li>sarg.alphapropsparks</li>
+	</loadAfter>
+</ModMetaData>

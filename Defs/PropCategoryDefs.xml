@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Frames</defName>
+		<label>frames</label>
+		<description>Door frames. Built by colonists and may provide beauty.</description>
+		<priority>2.45</priority>
+		<icon>frames</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Roofs</defName>
+		<label>roofs</label>
+		<description>Roofs. Built by colonists and may provide beauty.</description>
+		<priority>2.46</priority>
+		<icon>roofs</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Fences</defName>
+		<label>fences</label>
+		<description>Fences. Built by colonists and may provide beauty.</description>
+		<priority>2.46</priority>
+		<icon>fences</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Nautical</defName>
+		<label>nautical</label>
+		<description>Sea-farring props.</description>
+		<priority>6.5</priority>
+		<icon>nautical</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Gothic</defName>
+		<label>gothic</label>
+		<description>Gothic props.</description>
+		<priority>6.6</priority>
+		<icon>gothic</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Elevation</defName>
+		<label>elevation</label>
+		<description>Elevation-related props.</description>
+		<priority>2.47</priority>
+		<icon>elevation</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Flags</defName>
+		<label>flags</label>
+		<description>Flag-related props.</description>
+		<priority>102</priority>
+		<icon>flags</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Storage</defName>
+		<label>storage</label>
+		<description>Build functional decorative storages.</description>
+		<priority>102</priority>
+		<icon>storage</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Dining</defName>
+		<label>dining</label>
+		<description>Props related to eating.</description>
+		<priority>5.5</priority>
+		<icon>dining</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Urban</defName>
+		<label>urban</label>
+		<description>Props related to the city.</description>
+		<priority>6</priority>
+		<icon>urban</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Signs</defName>
+		<label>signs</label>
+		<description>Signs you can write on.</description>
+		<priority>102</priority>
+		<icon>signs</icon>
+	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Media</defName>
+		<label>media</label>
+		<description>User media you can place.</description>
+		<priority>102</priority>
+		<icon>media</icon>
+	</VFEProps.PropCategoryDef>
+</Defs>

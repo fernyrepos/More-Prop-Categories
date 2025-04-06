@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>              
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_44"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_45"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_46"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_47"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_48"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_49"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_50"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationReplace">
+  <success>Always</success>
+  <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Labs_51"]/category</xpath>
+  <value>
+    <category>Ferny_Signs</category>
+  </value>
+</Operation>
+
+
+</Patch>
+
