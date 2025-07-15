@@ -49,7 +49,7 @@
 
 <Operation Class="PatchOperationReplace">
     <success>Always</success>
-    <xpath>Defs/VFEProps.PropCategoryDef[defName="VVFE_PropCategory_Office"]/icon</xpath>
+    <xpath>Defs/VFEProps.PropCategoryDef[defName="VFE_PropCategory_Office"]/icon</xpath>
     <value>
         <icon>office</icon>
     </value>
