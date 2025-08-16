@@ -84,4 +84,11 @@
 		<priority>102</priority>
 		<icon>media</icon>
 	</VFEProps.PropCategoryDef>
+	<VFEProps.PropCategoryDef>
+		<defName>Ferny_Bathroom</defName>
+		<label>bathroom</label>
+		<description>Stuff that goes in a bathroom.</description>
+		<priority>102</priority>
+		<icon>bathroom</icon>
+	</VFEProps.PropCategoryDef>
 </Defs>

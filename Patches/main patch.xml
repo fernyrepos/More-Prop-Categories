@@ -6,6 +6,53 @@
             <category>Ferny_Elevation</category>
         </value>
     </Operation>
+
+
+
+
+
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Medieval_3"]/category</xpath>
+        <value>
+            <category>VFE_PropCategory_Workshop</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Furniture_1"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Furniture_15"]/category</xpath>
+        <value>
+            <category>VFE_PropCategory_Bedroom</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Furniture_16"]/category</xpath>
+        <value>
+            <category>Ferny_Urban</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Furniture_Grave"]/category</xpath>
+        <value>
+            <category>VFE_PropCategory_Temple</category>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Furniture_Sarcophagus"]/category</xpath>
+        <value>
+            <category>VFE_PropCategory_Temple</category>
+        </value>
+    </Operation>
+
+
+
+
+
     <Operation Class="PatchOperationReplace">
         <xpath>Defs/VFEProps.PropDef[defName="VFE_Prop_Structures_FakeStairsCorner"]/category</xpath>
         <value>
